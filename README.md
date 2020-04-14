@@ -8,6 +8,7 @@ This contains the solutions to Kattis puzzles I have completed.
 |A New Alphabet|ANewAlphabet.java|https://open.kattis.com/problems/anewalphabet|
 |Aaah!|Aaah.java|https://open.kattis.com/problems/aaah|
 |ABC|ABC.java|https://open.kattis.com/problems/abc|
+|Above Average|AboveAverage.java|https://open.kattis.com/problems/aboveaverage|
 |FizzBuzz|FizzBuzz.java|https://open.kattis.com/problems/fizzbuzz|
 |One Chicken Per Person!|OneChicken.java|https://open.kattis.com/problems/onechicken|
 |Pet|Pet.java|https://open.kattis.com/problems/pet|
