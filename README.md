@@ -5,6 +5,11 @@ This contains the solutions to Kattis puzzles I have completed.
 
 |PROBLEM|FILE|LINK TO KATTIS|
 |---|---|---|
+|A New Alphabet|ANewAlphabet.java|https://open.kattis.com/problems/anewalphabet|
+|Aaah!|Aaah.java|https://open.kattis.com/problems/aaah|
+|ABC|ABC.java|https://open.kattis.com/problems/abc|
+|FizzBuzz|FizzBuzz.java|https://open.kattis.com/problems/fizzbuzz|
+|One Chicken Per Person!|OneChicken.java|https://open.kattis.com/problems/onechicken|
+|Pet|Pet.java|https://open.kattis.com/problems/pet|
+|Sum Kind of Problem|SumKindOfProblem.java|https://open.kattis.com/problems/sumkindofproblem|
 |Stuck In A Time Loop|TimeLoop.java|https://open.kattis.com/problems/timeloop|
-|   |   |   |
-|   |   |   |
